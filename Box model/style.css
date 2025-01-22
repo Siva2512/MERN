@@ -1,0 +1,27 @@
+body{
+    font-family:Arial,sans-serif;
+    text-align: center;
+    background-color: rgb(14, 9, 4);
+    margin: 0;
+    padding: 20px;
+    font-size: 20px;
+    border: 20px double;
+}
+h1{
+    color: darkgray;
+    margin-bottom: 20px;
+    border: 10px solid;
+}
+p{
+    color: rgb(247, 238, 238);
+}
+.box{
+    background-color:rgb(169, 169, 177);
+    margin: 30px auto;
+    color: black;
+    width: 200px;  
+}
+.box1{
+    background-color: bisque;
+    margin-top: 10px;
+}
